@@ -7,10 +7,6 @@
 
 If you have a question, or need assistance during class, **please create an issue and mention @migarjo**.
 
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: null.
-
 ## Scripts for Adding Files
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
@@ -38,19 +34,9 @@ Please take a moment to complete the class survey at: null.
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
-#### GitHub Documentation and Help
-- [GitHub Webcasts](https://resources.github.com/webcasts/)
-- [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
-- [GitHub Help Documentation](https://help.github.com/)
-- [GitHub Enterprise Documentation](https://help.github.com/enterprise/2.12/)
-- [Enterprise Support](https://enterprise.github.com/support)
-
 #### Git and IDEs Webcasts
 - [GitHub and Visual Studio](https://resources.github.com/webcasts/GitHub-and-Visual-Studio/)
-- [GitHub and IntelliJ IDEs](https://resources.github.com/webcasts/GitHub-and-Intellij-IDEs/)
 - [GitHub and Atom.io](https://resources.github.com/webcasts/GitHub-and-Atom/)
-- [GitHub and Xcode](https://resources.github.com/webcasts/GitHub-and-Xcode/)
-- [GitHub and Eclipse](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
